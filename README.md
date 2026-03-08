@@ -6,19 +6,15 @@ Using Sentiment Analysis of Microsoft Planner to apply Neural Language Processin
 2. Process Unstructured into Structured Text Data
    
 **Scrapping**
-
     ↓
     
 **Raw Text** 
-
     ↓
     
 **Preprocessing**
-
     ↓
     
 **Clean Tokens**
-
     ↓
     
 **Analysis**
