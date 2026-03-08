@@ -7,17 +7,13 @@ Using Sentiment Analysis of Microsoft Planner to apply Neural Language Processin
    
                 **Scrapping** 
                       ↓
-    
-**Raw Text** 
-    ↓
-    
-**Preprocessing**
-    ↓
-    
-**Clean Tokens**
-    ↓
-    
-**Analysis**
+                 **Raw Text** 
+                      ↓    
+               **Preprocessing**
+                      ↓    
+               **Clean Tokens**
+                      ↓ 
+                **Analysis**
 
 4. Apply to Machine Learning/Computational methods
 5. Extract Meaning from Text Data
