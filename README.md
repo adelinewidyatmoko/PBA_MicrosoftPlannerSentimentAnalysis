@@ -5,7 +5,8 @@ Using Sentiment Analysis of Microsoft Planner to apply Neural Language Processin
 1. Understand Natural Language with Computers
 2. Process Unstructured into Structured Text Data
    
-**Scrapping** ↓
+                **Scrapping** 
+                      ↓
     
 **Raw Text** 
     ↓
