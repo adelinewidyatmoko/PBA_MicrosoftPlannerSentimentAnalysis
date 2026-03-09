@@ -3,18 +3,20 @@ Using Sentiment Analysis of Microsoft Planner to apply Neural Language Processin
 
 ### Milestones : 
 1. Understand Natural Language with Computers
-2. Process Unstructured into Structured Text Data 
-**Scrapping**
-    ↓
-**Raw Text**
-    ↓
-**Preprocessing**
-    ↓
-**Clean Tokens**
-    ↓
-**Analysis**
-3. Apply to Machine Learning/Computational methods
-4. Extract Meaning from Text Data
-5. Demonstrates Real-World Application
+2. Process Unstructured into Structured Text Data
+   
+                   Scrapping
+                      ↓
+                   Raw Text 
+                      ↓    
+                 Preprocessing
+                      ↓    
+                 Clean Tokens
+                      ↓ 
+               Sentiment Analysis
+
+4. Apply to Machine Learning/Computational methods
+5. Extract Meaning from Text Data
+6. Demonstrates Real-World Application
 
 
