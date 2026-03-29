@@ -1,0 +1,96 @@
+content,polarity,subjectivity,sentiment
+news mentioned fake,-0.5,1.0,negative
+audience encourage fake news,-0.5,1.0,negative
+fake news false misleading,-0.45000000000000007,0.8,negative
+people careful reading news online,-0.1,1.0,negative
+information internet true,0.35,0.65,positive
+website spread fake news gain attention,-0.5,1.0,negative
+reader must verify source believing anything,0.0,0.0,neutral
+fake news create confusion society,-0.5,1.0,negative
+also cause unnecessary panic,-0.4,0.9,negative
+many people share news without checking fact,0.5,0.5,positive
+behavior help fake news spread faster,-0.5,1.0,negative
+social medium platform full mixed information,0.12777777777777777,0.2888888888888889,positive
+true completely false,-0.02500000000000005,0.625,negative
+important think sharing news,0.4,1.0,positive
+critical thinking help avoid misinformation,0.0,0.8,neutral
+fake news often us attractive headline,0.15000000000000002,1.0,positive
+headline trick reader clicking,0.0,0.0,neutral
+people believe fake news becomes hard correct,-0.39583333333333337,0.7708333333333333,negative
+misinformation spread quickly,0.3333333333333333,0.5,positive
+educated reader tend question information,0.0,0.0,neutral
+look trusted source,0.0,0.0,neutral
+fake news harm individual community,-0.25,0.7,negative
+damage reputation,0.0,0.0,neutral
+fake news created intentionally,-0.5,1.0,negative
+others spread unknowingly,0.0,0.0,neutral
+technology make easy share information,0.43333333333333335,0.8333333333333334,positive
+also make spreading fake news easier,-0.5,1.0,negative
+user must responsible online,0.2,0.55,positive
+trust everything see,0.0,0.0,neutral
+news come reliable source,0.0,0.0,neutral
+trusted journalism important,0.4,1.0,positive
+fake news influence public opinion,-0.25,0.5333333333333333,negative
+even affect decision,0.0,0.0,neutral
+people cross check information,0.0,0.0,neutral
+one source enough,0.0,0.5,neutral
+image video also misleading,0.0,0.0,neutral
+edited easily,0.43333333333333335,0.8333333333333334,positive
+fake news often play emotion,-0.5,1.0,negative
+make people react quickly,0.3333333333333333,0.5,positive
+staying calm help judging information,0.30000000000000004,0.75,positive
+emotional reaction mislead,0.0,0.65,neutral
+student learn medium literacy,0.0,0.0,neutral
+help identify fake content,-0.5,1.0,negative
+fake news growing problem worldwide,-0.5,1.0,negative
+many country affected,0.5,0.5,positive
+government try control misinformation,0.0,0.0,neutral
+always easy,0.43333333333333335,0.8333333333333334,positive
+everyone role stopping fake news,-0.5,1.0,negative
+awareness first step,0.25,0.3333333333333333,positive
+reading carefully prevent mistake,-0.1,1.0,negative
+skimming lead misunderstanding,0.0,0.0,neutral
+fake news sometimes look real,-0.15,0.65,negative
+difficult detect,-0.5,1.0,negative
+checking author important,0.4,1.0,positive
+unknown source risky,-0.1,0.6,negative
+date also matter news,0.0,0.0,neutral
+old news misleading reused,0.1,0.2,positive
+fake news spread faster real news,-0.15,0.65,negative
+serious issue,-0.3333333333333333,0.6666666666666666,negative
+algorithm sometimes promote trending content,0.0,0.0,neutral
+even false,-0.4000000000000001,0.6,negative
+user report fake news,-0.5,1.0,negative
+platform often provide feature,0.0,0.0,neutral
+discussion others help verify news,0.0,0.0,neutral
+different view useful,0.15,0.3,positive
+fake news target specific group,-0.25,0.5625,negative
+create division,0.0,0.0,neutral
+awareness campaign help educate people,0.0,0.0,neutral
+reduce misinformation,0.0,0.0,neutral
+school teach critical thinking,0.0,0.8,neutral
+necessary skill,0.0,1.0,neutral
+fake news affect trust medium,-0.5,1.0,negative
+people become skeptical,-0.5,0.5,negative
+reliable journalism build credibility,0.0,0.0,neutral
+take time effort,0.0,0.0,neutral
+reader must take responsibility,0.0,0.0,neutral
+passive reading dangerous,-0.6,0.9,negative
+fake news impact mental health,-0.3,0.6,negative
+creates fear anxiety,0.0,0.0,neutral
+information overload make harder judge truth,-0.1,0.0,negative
+much data confuses people,0.2,0.2,positive
+simple verification step help,0.0,0.35714285714285715,neutral
+checking multiple source effective,0.3,0.4,positive
+fake news always obvious,-0.25,0.75,negative
+hide plain sight,-0.21428571428571427,0.35714285714285715,negative
+people slow reading,-0.30000000000000004,0.39999999999999997,negative
+rushing lead error,0.0,0.0,neutral
+understanding context important,0.4,1.0,positive
+misinterpretation cause problem,0.0,0.0,neutral
+fake news thrives ignorance,-0.5,1.0,negative
+knowledge best defense,1.0,0.3,positive
+informed powerful,0.3,1.0,positive
+protects misinformation,0.0,0.0,neutral
+truth always valued,0.0,0.0,neutral
+build better society,0.5,0.5,positive
